@@ -137,3 +137,6 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.  
+
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/NewPipe19/v0.19.9/total)
+
